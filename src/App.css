@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Rubik:wght@300&display=swap');
+
+.app {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+@media only screen and (max-width: 426px) {
+
+  .MuiGrid-item {
+    padding-top: 20px !important;
+  }
+}
